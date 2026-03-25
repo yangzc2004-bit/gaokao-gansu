@@ -1,0 +1,2551 @@
+{
+  "profile_summary": {
+    "region": "会宁县",
+    "hukou_nature": "rural_only",
+    "nation": "汉族",
+    "school_region": "会宁县",
+    "track": "物理",
+    "selected_subjects": [
+      "化学",
+      "生物"
+    ]
+  },
+  "eligibility_summary": {
+    "total_plans": 22,
+    "eligible_count": 10,
+    "ineligible_count": 12
+  },
+  "eligible_plans": [
+    {
+      "plan_tag": "国家专项",
+      "batch_code": "本科批(C段)",
+      "eligible": true,
+      "summary": "✅ 具备国家专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "国家专项户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "国家专项实施区域要求：甘肃省原58个集中连片贫困县",
+          "required_value": "甘肃省原58个集中连片贫困县",
+          "actual_value": "户籍：会宁县，学籍：会宁县，监护人户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "国家专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "国家专项监护人户籍要求：监护人须具有实施区域户籍",
+          "required_value": "监护人具有本地户籍",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "国家专项实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "国家专项民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "国家专项专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "国家专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "国家专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "国家专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "国家专项诚信要求：往年被专项计划录取后放弃入学或退学的考生不得报考",
+          "required_value": "无失信记录",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "国家专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备国家专项报考资格，建议在志愿填报时优先考虑该计划。",
+        "该计划有降分录取优惠，可适当冲高填报。"
+      ],
+      "detailed_explanation": "【国家专项】资格审核详情\n录取批次：本科批(C段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：国家专项户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：国家专项实施区域要求：甘肃省原58个集中连片贫困县\n     要求：甘肃省原58个集中连片贫困县\n     实际：户籍：会宁县，学籍：会宁县，监护人户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：国家专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：国家专项监护人户籍要求：监护人须具有实施区域户籍\n     要求：监护人具有本地户籍\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：国家专项实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：国家专项民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：国家专项专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：国家专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：国家专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：国家专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：国家专项诚信要求：往年被专项计划录取后放弃入学或退学的考生不得报考\n     要求：无失信记录\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：国家专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "地方专项",
+      "batch_code": "本科批(C段)",
+      "eligible": true,
+      "summary": "✅ 具备地方专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "地方专项户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "地方专项实施区域要求：甘肃省农村区域",
+          "required_value": "甘肃省农村区域",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "地方专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "地方专项监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "地方专项实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "地方专项民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "地方专项专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "地方专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "地方专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "地方专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "地方专项诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "地方专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备地方专项报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【地方专项】资格审核详情\n录取批次：本科批(C段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：地方专项户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：地方专项实施区域要求：甘肃省农村区域\n     要求：甘肃省农村区域\n     实际：户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：地方专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：地方专项监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：地方专项实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：地方专项民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：地方专项专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：地方专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：地方专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：地方专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：地方专项诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：地方专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "革命老区专项",
+      "batch_code": "本科批(C段)",
+      "eligible": true,
+      "summary": "✅ 具备革命老区专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "革命老区专项户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "革命老区专项实施区域要求：革命老区（庆阳市、平凉市全境+会宁县）",
+          "required_value": "革命老区（庆阳市、平凉市全境+会宁县）",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "革命老区专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "革命老区专项监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "革命老区专项实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "革命老区专项民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "革命老区专项专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "革命老区专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "革命老区专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "革命老区专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "革命老区专项诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "革命老区专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备革命老区专项报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【革命老区专项】资格审核详情\n录取批次：本科批(C段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：革命老区专项户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：革命老区专项实施区域要求：革命老区（庆阳市、平凉市全境+会宁县）\n     要求：革命老区（庆阳市、平凉市全境+会宁县）\n     实际：户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：革命老区专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：革命老区专项监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：革命老区专项实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：革命老区专项民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：革命老区专项专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：革命老区专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：革命老区专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：革命老区专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：革命老区专项诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：革命老区专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "省属免费医学生(本科)",
+      "batch_code": "本科提前批(A段)",
+      "eligible": true,
+      "summary": "✅ 具备省属免费医学生(本科)报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "省属免费医学生(本科)户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "省属免费医学生(本科)实施区域要求：甘肃省农村区域",
+          "required_value": "甘肃省农村区域",
+          "actual_value": "户籍：会宁县，监护人户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "省属免费医学生(本科)三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "省属免费医学生(本科)监护人户籍要求：监护人须具有实施区域户籍",
+          "required_value": "监护人具有本地户籍",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "省属免费医学生(本科)实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "省属免费医学生(本科)民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "省属免费医学生(本科)专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "省属免费医学生(本科)专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "省属免费医学生(本科)建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "省属免费医学生(本科)民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "省属免费医学生(本科)诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "省属免费医学生(本科)选科要求：必须选考物理和化学",
+          "required_value": "必须选考物理和化学",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备省属免费医学生(本科)报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【省属免费医学生(本科)】资格审核详情\n录取批次：本科提前批(A段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：省属免费医学生(本科)户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：省属免费医学生(本科)实施区域要求：甘肃省农村区域\n     要求：甘肃省农村区域\n     实际：户籍：会宁县，监护人户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：省属免费医学生(本科)三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：省属免费医学生(本科)监护人户籍要求：监护人须具有实施区域户籍\n     要求：监护人具有本地户籍\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：省属免费医学生(本科)实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：省属免费医学生(本科)民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：省属免费医学生(本科)专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：省属免费医学生(本科)专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：省属免费医学生(本科)建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：省属免费医学生(本科)民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：省属免费医学生(本科)诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：省属免费医学生(本科)选科要求：必须选考物理和化学\n     要求：必须选考物理和化学\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "省属免费医学生(专科)",
+      "batch_code": "高职(专科)批特殊类(P段)",
+      "eligible": true,
+      "summary": "✅ 具备省属免费医学生(专科)报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "省属免费医学生(专科)户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "省属免费医学生(专科)实施区域要求：甘肃省农村区域",
+          "required_value": "甘肃省农村区域",
+          "actual_value": "户籍：会宁县，监护人户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "省属免费医学生(专科)三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "省属免费医学生(专科)监护人户籍要求：监护人须具有实施区域户籍",
+          "required_value": "监护人具有本地户籍",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "省属免费医学生(专科)实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "省属免费医学生(专科)民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "省属免费医学生(专科)专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "省属免费医学生(专科)专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "省属免费医学生(专科)建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "省属免费医学生(专科)民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "省属免费医学生(专科)诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "省属免费医学生(专科)选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备省属免费医学生(专科)报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【省属免费医学生(专科)】资格审核详情\n录取批次：高职(专科)批特殊类(P段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：省属免费医学生(专科)户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：省属免费医学生(专科)实施区域要求：甘肃省农村区域\n     要求：甘肃省农村区域\n     实际：户籍：会宁县，监护人户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：省属免费医学生(专科)三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：省属免费医学生(专科)监护人户籍要求：监护人须具有实施区域户籍\n     要求：监护人具有本地户籍\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：省属免费医学生(专科)实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：省属免费医学生(专科)民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：省属免费医学生(专科)专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：省属免费医学生(专科)专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：省属免费医学生(专科)建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：省属免费医学生(专科)民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：省属免费医学生(专科)诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：省属免费医学生(专科)选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "国家免费医学生",
+      "batch_code": "本科提前批(A段)",
+      "eligible": true,
+      "summary": "✅ 具备国家免费医学生报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "国家免费医学生户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "国家免费医学生实施区域要求：甘肃省58个贫困县+3个少数民族自治县",
+          "required_value": "甘肃省58个贫困县+3个少数民族自治县",
+          "actual_value": "户籍：会宁县，监护人户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "国家免费医学生三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "国家免费医学生监护人户籍要求：监护人须具有实施区域户籍",
+          "required_value": "监护人具有本地户籍",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "国家免费医学生实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "国家免费医学生民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "国家免费医学生专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "国家免费医学生专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "国家免费医学生建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "国家免费医学生民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "国家免费医学生诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "国家免费医学生选科要求：必须选考物理和化学",
+          "required_value": "必须选考物理和化学",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备国家免费医学生报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【国家免费医学生】资格审核详情\n录取批次：本科提前批(A段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：国家免费医学生户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：国家免费医学生实施区域要求：甘肃省58个贫困县+3个少数民族自治县\n     要求：甘肃省58个贫困县+3个少数民族自治县\n     实际：户籍：会宁县，监护人户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：国家免费医学生三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：国家免费医学生监护人户籍要求：监护人须具有实施区域户籍\n     要求：监护人具有本地户籍\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：国家免费医学生实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：国家免费医学生民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：国家免费医学生专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：国家免费医学生专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：国家免费医学生建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：国家免费医学生民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：国家免费医学生诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：国家免费医学生选科要求：必须选考物理和化学\n     要求：必须选考物理和化学\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "国家公费师范生",
+      "batch_code": "本科提前批(A段)",
+      "eligible": true,
+      "summary": "✅ 具备国家公费师范生报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "国家公费师范生户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "国家公费师范生实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "国家公费师范生三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "国家公费师范生监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "国家公费师范生实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "国家公费师范生民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "国家公费师范生专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "国家公费师范生专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "国家公费师范生建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "国家公费师范生民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "国家公费师范生诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "国家公费师范生选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备国家公费师范生报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【国家公费师范生】资格审核详情\n录取批次：本科提前批(A段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：国家公费师范生户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：国家公费师范生实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：国家公费师范生三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：国家公费师范生监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：国家公费师范生实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：国家公费师范生民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：国家公费师范生专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：国家公费师范生专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：国家公费师范生建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：国家公费师范生民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：国家公费师范生诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：国家公费师范生选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "省属公费师范生",
+      "batch_code": "本科提前批(A段)",
+      "eligible": true,
+      "summary": "✅ 具备省属公费师范生报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "省属公费师范生户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "省属公费师范生实施区域要求：省属定向培养指定区域",
+          "required_value": "省属定向培养指定区域",
+          "actual_value": "户籍：会宁县，监护人户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "省属公费师范生三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "省属公费师范生监护人户籍要求：监护人须具有实施区域户籍",
+          "required_value": "监护人具有本地户籍",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "省属公费师范生实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "省属公费师范生民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "省属公费师范生专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "省属公费师范生专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "省属公费师范生建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "省属公费师范生民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "省属公费师范生诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "省属公费师范生选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备省属公费师范生报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【省属公费师范生】资格审核详情\n录取批次：本科提前批(A段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：省属公费师范生户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：省属公费师范生实施区域要求：省属定向培养指定区域\n     要求：省属定向培养指定区域\n     实际：户籍：会宁县，监护人户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：省属公费师范生三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：省属公费师范生监护人户籍要求：监护人须具有实施区域户籍\n     要求：监护人具有本地户籍\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：省属公费师范生实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：省属公费师范生民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：省属公费师范生专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：省属公费师范生专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：省属公费师范生建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：省属公费师范生民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：省属公费师范生诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：省属公费师范生选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "市级定向培养",
+      "batch_code": "本科提前批(A段)/高职(专科)批特殊类(P段)",
+      "eligible": true,
+      "summary": "✅ 具备市级定向培养报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "市级定向培养户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "市级定向培养实施区域要求：市级定向培养指定区域",
+          "required_value": "市级定向培养指定区域",
+          "actual_value": "户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "市级定向培养三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "市级定向培养监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "市级定向培养实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "市级定向培养民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "市级定向培养专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "市级定向培养专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "市级定向培养建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "市级定向培养民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "市级定向培养诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "市级定向培养选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备市级定向培养报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【市级定向培养】资格审核详情\n录取批次：本科提前批(A段)/高职(专科)批特殊类(P段)\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：市级定向培养户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：市级定向培养实施区域要求：市级定向培养指定区域\n     要求：市级定向培养指定区域\n     实际：户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：市级定向培养三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：市级定向培养监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：市级定向培养实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：市级定向培养民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：市级定向培养专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：市级定向培养专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：市级定向培养建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：市级定向培养民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：市级定向培养诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：市级定向培养选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "农村学生专项",
+      "batch_code": "按院校方案",
+      "eligible": true,
+      "summary": "✅ 具备农村学生专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 12,
+        "failed_rules": 0,
+        "pass_rate": "100.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "农村学生专项户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "农村学生专项实施区域要求：甘肃省农村区域",
+          "required_value": "甘肃省农村区域",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "农村学生专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "农村学生专项监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "农村学生专项实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "农村学生专项民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "农村学生专项专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "农村学生专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "农村学生专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "农村学生专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "农村学生专项诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "农村学生专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您具备农村学生专项报考资格，建议在志愿填报时优先考虑该计划。"
+      ],
+      "detailed_explanation": "【农村学生专项】资格审核详情\n录取批次：按院校方案\n\n✅ 审核结果：具备报考资格\n您满足该专项计划的所有报考条件，可以正常填报志愿。\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：农村学生专项户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：农村学生专项实施区域要求：甘肃省农村区域\n     要求：甘肃省农村区域\n     实际：户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：农村学生专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：农村学生专项监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：农村学生专项实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：农村学生专项民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：农村学生专项专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：农村学生专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：农村学生专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：农村学生专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：农村学生专项诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：农村学生专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    }
+  ],
+  "ineligible_plans": [
+    {
+      "plan_tag": "高校专项",
+      "batch_code": "本科批(B段)",
+      "eligible": false,
+      "summary": "❌ 不具备高校专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "高校专项户籍要求：须为农村户籍",
+          "required_value": "农村户籍",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "高校专项实施区域要求：甘肃省58个贫困县+3个少数民族自治县",
+          "required_value": "甘肃省58个贫困县+3个少数民族自治县",
+          "actual_value": "户籍：会宁县，学籍：会宁县，监护人户籍：会宁县",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "高校专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "高校专项监护人户籍要求：监护人须具有实施区域户籍",
+          "required_value": "监护人具有本地户籍",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "高校专项实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "高校专项民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "高校专项专项审核要求：须通过高校/省级审核",
+          "required_value": "通过审核",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": false,
+          "failure_reason": "未通过专项审核或未参加审核"
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "高校专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "高校专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "高校专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "高校专项诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "高校专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备高校专项报考资格，建议关注以下方面：",
+        "• 未通过专项审核：请关注次年4月的报名审核通知。"
+      ],
+      "detailed_explanation": "【高校专项】资格审核详情\n录取批次：本科批(B段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 专项审核检查：未通过专项审核或未参加审核\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：高校专项户籍要求：须为农村户籍\n     要求：农村户籍\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：高校专项实施区域要求：甘肃省58个贫困县+3个少数民族自治县\n     要求：甘肃省58个贫困县+3个少数民族自治县\n     实际：户籍：会宁县，学籍：会宁县，监护人户籍：会宁县\n\n  ✅ 三年统一检查\n     规则：高校专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：高校专项监护人户籍要求：监护人须具有实施区域户籍\n     要求：监护人具有本地户籍\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：高校专项实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：高校专项民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ❌ 专项审核检查\n     规则：高校专项专项审核要求：须通过高校/省级审核\n     要求：通过审核\n     实际：审核状态：未通过/未申请\n     原因：未通过专项审核或未参加审核\n\n  ✅ 专项身份检查\n     规则：高校专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：高校专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：高校专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：高校专项诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：高校专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "建档立卡专项(本科)",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备建档立卡专项(本科)报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "建档立卡专项(本科)户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "建档立卡专项(本科)实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "建档立卡专项(本科)三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "建档立卡专项(本科)监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "建档立卡专项(本科)实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "建档立卡专项(本科)民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "建档立卡专项(本科)专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "建档立卡专项(本科)专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "建档立卡专项(本科)建档立卡要求：须为建档立卡贫困户",
+          "required_value": "建档立卡贫困户",
+          "actual_value": "建档立卡状态：否",
+          "passed": false,
+          "failure_reason": "非建档立卡贫困户"
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "建档立卡专项(本科)民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "建档立卡专项(本科)诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "建档立卡专项(本科)选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备建档立卡专项(本科)报考资格，建议关注以下方面："
+      ],
+      "detailed_explanation": "【建档立卡专项(本科)】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 建档立卡检查：非建档立卡贫困户\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：建档立卡专项(本科)户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：建档立卡专项(本科)实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：建档立卡专项(本科)三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：建档立卡专项(本科)监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：建档立卡专项(本科)实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：建档立卡专项(本科)民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：建档立卡专项(本科)专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：建档立卡专项(本科)专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ❌ 建档立卡检查\n     规则：建档立卡专项(本科)建档立卡要求：须为建档立卡贫困户\n     要求：建档立卡贫困户\n     实际：建档立卡状态：否\n     原因：非建档立卡贫困户\n\n  ✅ 民族语文检查\n     规则：建档立卡专项(本科)民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：建档立卡专项(本科)诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：建档立卡专项(本科)选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "建档立卡专项(专科)",
+      "batch_code": "高职(专科)批(F段)",
+      "eligible": false,
+      "summary": "❌ 不具备建档立卡专项(专科)报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "建档立卡专项(专科)户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "建档立卡专项(专科)实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "建档立卡专项(专科)三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "建档立卡专项(专科)监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "建档立卡专项(专科)实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "建档立卡专项(专科)民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "建档立卡专项(专科)专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "建档立卡专项(专科)专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "建档立卡专项(专科)建档立卡要求：须为建档立卡贫困户",
+          "required_value": "建档立卡贫困户",
+          "actual_value": "建档立卡状态：否",
+          "passed": false,
+          "failure_reason": "非建档立卡贫困户"
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "建档立卡专项(专科)民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "建档立卡专项(专科)诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "建档立卡专项(专科)选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备建档立卡专项(专科)报考资格，建议关注以下方面："
+      ],
+      "detailed_explanation": "【建档立卡专项(专科)】资格审核详情\n录取批次：高职(专科)批(F段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 建档立卡检查：非建档立卡贫困户\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：建档立卡专项(专科)户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：建档立卡专项(专科)实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：建档立卡专项(专科)三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：建档立卡专项(专科)监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：建档立卡专项(专科)实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：建档立卡专项(专科)民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：建档立卡专项(专科)专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：建档立卡专项(专科)专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ❌ 建档立卡检查\n     规则：建档立卡专项(专科)建档立卡要求：须为建档立卡贫困户\n     要求：建档立卡贫困户\n     实际：建档立卡状态：否\n     原因：非建档立卡贫困户\n\n  ✅ 民族语文检查\n     规则：建档立卡专项(专科)民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：建档立卡专项(专科)诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：建档立卡专项(专科)选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "两州一县专项",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备两州一县专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "两州一县专项户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "两州一县专项实施区域要求：两州一县（甘南州、临夏州、天祝县）",
+          "required_value": "两州一县（甘南州、临夏州、天祝县）",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": false,
+          "failure_reason": "考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县"
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "两州一县专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "两州一县专项监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "两州一县专项实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "两州一县专项民族要求：少数民族优先（70%名额），汉族也可报考（30%名额）",
+          "required_value": "少数民族优先（70%名额），汉族也可报考（30%名额）",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "两州一县专项专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "两州一县专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "两州一县专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "两州一县专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "两州一县专项诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "两州一县专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备两州一县专项报考资格，建议关注以下方面：",
+        "• 地区范围不符：请确认您的户籍/学籍是否在实施区域内。"
+      ],
+      "detailed_explanation": "【两州一县专项】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 地区范围检查：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：两州一县专项户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ❌ 地区范围检查\n     规则：两州一县专项实施区域要求：两州一县（甘南州、临夏州、天祝县）\n     要求：两州一县（甘南州、临夏州、天祝县）\n     实际：户籍：会宁县，学籍：会宁县\n     原因：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：两州一县专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：两州一县专项监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：两州一县专项实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：两州一县专项民族要求：少数民族优先（70%名额），汉族也可报考（30%名额）\n     要求：少数民族优先（70%名额），汉族也可报考（30%名额）\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：两州一县专项专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：两州一县专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：两州一县专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：两州一县专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：两州一县专项诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：两州一县专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "藏区专项-民语类",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备藏区专项-民语类报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 9,
+        "failed_rules": 3,
+        "pass_rate": "75.0%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "藏区专项-民语类户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "藏区专项-民语类实施区域要求：藏区（甘南州、天祝县）",
+          "required_value": "藏区（甘南州、天祝县）",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": false,
+          "failure_reason": "考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县"
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "藏区专项-民语类三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "藏区专项-民语类监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "藏区专项-民语类实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "藏区专项-民语类民族要求：须为少数民族",
+          "required_value": "须为少数民族",
+          "actual_value": "考生民族：汉族",
+          "passed": false,
+          "failure_reason": "考生为汉族，非少数民族，不满足少数民族要求"
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "藏区专项-民语类专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "藏区专项-民语类专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "藏区专项-民语类建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "藏区专项-民语类民族语文要求：须具有民族语文科目成绩",
+          "required_value": "有民族语文成绩",
+          "actual_value": "民族语文成绩：无",
+          "passed": false,
+          "failure_reason": "无民族语文科目成绩"
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "藏区专项-民语类诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "藏区专项-民语类选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备藏区专项-民语类报考资格，建议关注以下方面：",
+        "• 地区范围不符：请确认您的户籍/学籍是否在实施区域内。",
+        "• 民族成分不符：该计划仅限特定民族报考。"
+      ],
+      "detailed_explanation": "【藏区专项-民语类】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 地区范围检查：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n  • 民族成分检查：考生为汉族，非少数民族，不满足少数民族要求\n  • 民族语文检查：无民族语文科目成绩\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：藏区专项-民语类户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ❌ 地区范围检查\n     规则：藏区专项-民语类实施区域要求：藏区（甘南州、天祝县）\n     要求：藏区（甘南州、天祝县）\n     实际：户籍：会宁县，学籍：会宁县\n     原因：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：藏区专项-民语类三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：藏区专项-民语类监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：藏区专项-民语类实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ❌ 民族成分检查\n     规则：藏区专项-民语类民族要求：须为少数民族\n     要求：须为少数民族\n     实际：考生民族：汉族\n     原因：考生为汉族，非少数民族，不满足少数民族要求\n\n  ✅ 专项审核检查\n     规则：藏区专项-民语类专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：藏区专项-民语类专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：藏区专项-民语类建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ❌ 民族语文检查\n     规则：藏区专项-民语类民族语文要求：须具有民族语文科目成绩\n     要求：有民族语文成绩\n     实际：民族语文成绩：无\n     原因：无民族语文科目成绩\n\n  ✅ 诚信记录检查\n     规则：藏区专项-民语类诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：藏区专项-民语类选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "藏区专项-其他类",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备藏区专项-其他类报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "藏区专项-其他类户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "藏区专项-其他类实施区域要求：藏区（甘南州、天祝县）",
+          "required_value": "藏区（甘南州、天祝县）",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": false,
+          "failure_reason": "考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县"
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "藏区专项-其他类三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "藏区专项-其他类监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "藏区专项-其他类实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "藏区专项-其他类民族要求：少数民族优先（70%名额），汉族也可报考（30%名额）",
+          "required_value": "少数民族优先（70%名额），汉族也可报考（30%名额）",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "藏区专项-其他类专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "藏区专项-其他类专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "藏区专项-其他类建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "藏区专项-其他类民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "藏区专项-其他类诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "藏区专项-其他类选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备藏区专项-其他类报考资格，建议关注以下方面：",
+        "• 地区范围不符：请确认您的户籍/学籍是否在实施区域内。"
+      ],
+      "detailed_explanation": "【藏区专项-其他类】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 地区范围检查：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：藏区专项-其他类户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ❌ 地区范围检查\n     规则：藏区专项-其他类实施区域要求：藏区（甘南州、天祝县）\n     要求：藏区（甘南州、天祝县）\n     实际：户籍：会宁县，学籍：会宁县\n     原因：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：藏区专项-其他类三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：藏区专项-其他类监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：藏区专项-其他类实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：藏区专项-其他类民族要求：少数民族优先（70%名额），汉族也可报考（30%名额）\n     要求：少数民族优先（70%名额），汉族也可报考（30%名额）\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：藏区专项-其他类专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：藏区专项-其他类专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：藏区专项-其他类建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：藏区专项-其他类民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：藏区专项-其他类诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：藏区专项-其他类选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "其他民族地区专项",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备其他民族地区专项报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "其他民族地区专项户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "其他民族地区专项实施区域要求：其他民族地区",
+          "required_value": "其他民族地区",
+          "actual_value": "户籍：会宁县，学籍：会宁县",
+          "passed": false,
+          "failure_reason": "考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县"
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "其他民族地区专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读",
+          "required_value": "户籍、学籍、监护人户籍均≥3年",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "其他民族地区专项监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "其他民族地区专项实际就读要求：须在学籍学校实际就读",
+          "required_value": "实际就读满3年",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "其他民族地区专项民族要求：少数民族优先（70%名额），汉族也可报考（30%名额）",
+          "required_value": "少数民族优先（70%名额），汉族也可报考（30%名额）",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "其他民族地区专项专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "其他民族地区专项专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "其他民族地区专项建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "其他民族地区专项民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "其他民族地区专项诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "其他民族地区专项选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备其他民族地区专项报考资格，建议关注以下方面：",
+        "• 地区范围不符：请确认您的户籍/学籍是否在实施区域内。"
+      ],
+      "detailed_explanation": "【其他民族地区专项】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 地区范围检查：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：其他民族地区专项户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ❌ 地区范围检查\n     规则：其他民族地区专项实施区域要求：其他民族地区\n     要求：其他民族地区\n     实际：户籍：会宁县，学籍：会宁县\n     原因：考生户籍/学籍不在实施区域内，当前户籍：会宁县，学籍：会宁县\n\n  ✅ 三年统一检查\n     规则：其他民族地区专项三年统一要求：考生本人及监护人须具有实施区域连续3年以上户籍，考生具有3年学籍并实际就读\n     要求：户籍、学籍、监护人户籍均≥3年\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：其他民族地区专项监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：其他民族地区专项实际就读要求：须在学籍学校实际就读\n     要求：实际就读满3年\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：其他民族地区专项民族要求：少数民族优先（70%名额），汉族也可报考（30%名额）\n     要求：少数民族优先（70%名额），汉族也可报考（30%名额）\n     实际：考生民族：汉族\n\n  ✅ 专项审核检查\n     规则：其他民族地区专项专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：其他民族地区专项专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：其他民族地区专项建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：其他民族地区专项民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：其他民族地区专项诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：其他民族地区专项选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "少数民族预科班",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备少数民族预科班报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "少数民族预科班户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "少数民族预科班实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "少数民族预科班三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "少数民族预科班监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "少数民族预科班实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "少数民族预科班民族要求：须为少数民族",
+          "required_value": "须为少数民族",
+          "actual_value": "考生民族：汉族",
+          "passed": false,
+          "failure_reason": "考生为汉族，非少数民族，不满足少数民族要求"
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "少数民族预科班专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "少数民族预科班专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "少数民族预科班建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "少数民族预科班民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "少数民族预科班诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "少数民族预科班选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备少数民族预科班报考资格，建议关注以下方面：",
+        "• 民族成分不符：该计划仅限特定民族报考。"
+      ],
+      "detailed_explanation": "【少数民族预科班】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 民族成分检查：考生为汉族，非少数民族，不满足少数民族要求\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：少数民族预科班户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：少数民族预科班实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：少数民族预科班三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：少数民族预科班监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：少数民族预科班实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ❌ 民族成分检查\n     规则：少数民族预科班民族要求：须为少数民族\n     要求：须为少数民族\n     实际：考生民族：汉族\n     原因：考生为汉族，非少数民族，不满足少数民族要求\n\n  ✅ 专项审核检查\n     规则：少数民族预科班专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：少数民族预科班专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：少数民族预科班建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：少数民族预科班民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：少数民族预科班诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：少数民族预科班选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "民族班",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备民族班报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 11,
+        "failed_rules": 1,
+        "pass_rate": "91.7%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "民族班户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "民族班实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "民族班三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "民族班监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "民族班实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "民族班民族要求：须为少数民族",
+          "required_value": "须为少数民族",
+          "actual_value": "考生民族：汉族",
+          "passed": false,
+          "failure_reason": "考生为汉族，非少数民族，不满足少数民族要求"
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "民族班专项审核要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "民族班专项身份要求：无特殊身份要求",
+          "required_value": "无特殊要求",
+          "actual_value": "考生身份：普通考生",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "民族班建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "民族班民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "民族班诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "民族班选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备民族班报考资格，建议关注以下方面：",
+        "• 民族成分不符：该计划仅限特定民族报考。"
+      ],
+      "detailed_explanation": "【民族班】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 民族成分检查：考生为汉族，非少数民族，不满足少数民族要求\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：民族班户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：民族班实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：民族班三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：民族班监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：民族班实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ❌ 民族成分检查\n     规则：民族班民族要求：须为少数民族\n     要求：须为少数民族\n     实际：考生民族：汉族\n     原因：考生为汉族，非少数民族，不满足少数民族要求\n\n  ✅ 专项审核检查\n     规则：民族班专项审核要求：无要求\n     要求：无要求\n     实际：审核状态：未通过/未申请\n\n  ✅ 专项身份检查\n     规则：民族班专项身份要求：无特殊身份要求\n     要求：无特殊要求\n     实际：考生身份：普通考生\n\n  ✅ 建档立卡检查\n     规则：民族班建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：民族班民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：民族班诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：民族班选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "边防军人子女预科",
+      "batch_code": "本科批(C段)",
+      "eligible": false,
+      "summary": "❌ 不具备边防军人子女预科报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 10,
+        "failed_rules": 2,
+        "pass_rate": "83.3%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "边防军人子女预科户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "边防军人子女预科实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "边防军人子女预科三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "边防军人子女预科监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "边防军人子女预科实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "边防军人子女预科民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "边防军人子女预科专项审核要求：须通过高校/省级审核",
+          "required_value": "通过审核",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": false,
+          "failure_reason": "未通过专项审核或未参加审核"
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "边防军人子女预科专项身份要求：须为经中央军委政治工作部审核确认的边防军人子女",
+          "required_value": "边防军人子女",
+          "actual_value": "考生身份：普通考生",
+          "passed": false,
+          "failure_reason": "不具备边防军人子女身份"
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "边防军人子女预科建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "边防军人子女预科民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "边防军人子女预科诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "边防军人子女预科选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备边防军人子女预科报考资格，建议关注以下方面：",
+        "• 未通过专项审核：请关注次年4月的报名审核通知。"
+      ],
+      "detailed_explanation": "【边防军人子女预科】资格审核详情\n录取批次：本科批(C段)\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 专项审核检查：未通过专项审核或未参加审核\n  • 专项身份检查：不具备边防军人子女身份\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：边防军人子女预科户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：边防军人子女预科实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：边防军人子女预科三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：边防军人子女预科监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：边防军人子女预科实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：边防军人子女预科民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ❌ 专项审核检查\n     规则：边防军人子女预科专项审核要求：须通过高校/省级审核\n     要求：通过审核\n     实际：审核状态：未通过/未申请\n     原因：未通过专项审核或未参加审核\n\n  ❌ 专项身份检查\n     规则：边防军人子女预科专项身份要求：须为经中央军委政治工作部审核确认的边防军人子女\n     要求：边防军人子女\n     实际：考生身份：普通考生\n     原因：不具备边防军人子女身份\n\n  ✅ 建档立卡检查\n     规则：边防军人子女预科建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：边防军人子女预科民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：边防军人子女预科诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：边防军人子女预科选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "强基计划",
+      "batch_code": "提前批A段之前单独投档",
+      "eligible": false,
+      "summary": "❌ 不具备强基计划报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 10,
+        "failed_rules": 2,
+        "pass_rate": "83.3%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "强基计划户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "强基计划实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "强基计划三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "强基计划监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "强基计划实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "强基计划民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "强基计划专项审核要求：须通过高校/省级审核",
+          "required_value": "通过审核",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": false,
+          "failure_reason": "未通过专项审核或未参加审核"
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "强基计划专项身份要求：须为强基计划候选人（综合素质优秀或基础学科拔尖）",
+          "required_value": "强基计划候选人",
+          "actual_value": "考生身份：普通考生",
+          "passed": false,
+          "failure_reason": "不具备强基计划候选人身份"
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "强基计划建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "强基计划民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "强基计划诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "强基计划选科要求：必须选考物理+化学，或选考历史（分文理科）",
+          "required_value": "必须选考物理+化学，或选考历史（分文理科）",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备强基计划报考资格，建议关注以下方面：",
+        "• 未通过专项审核：请关注次年4月的报名审核通知。"
+      ],
+      "detailed_explanation": "【强基计划】资格审核详情\n录取批次：提前批A段之前单独投档\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 专项审核检查：未通过专项审核或未参加审核\n  • 专项身份检查：不具备强基计划候选人身份\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：强基计划户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：强基计划实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：强基计划三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：强基计划监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：强基计划实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：强基计划民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ❌ 专项审核检查\n     规则：强基计划专项审核要求：须通过高校/省级审核\n     要求：通过审核\n     实际：审核状态：未通过/未申请\n     原因：未通过专项审核或未参加审核\n\n  ❌ 专项身份检查\n     规则：强基计划专项身份要求：须为强基计划候选人（综合素质优秀或基础学科拔尖）\n     要求：强基计划候选人\n     实际：考生身份：普通考生\n     原因：不具备强基计划候选人身份\n\n  ✅ 建档立卡检查\n     规则：强基计划建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：强基计划民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：强基计划诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：强基计划选科要求：必须选考物理+化学，或选考历史（分文理科）\n     要求：必须选考物理+化学，或选考历史（分文理科）\n     实际：考生选科：物理 + 化学, 生物\n"
+    },
+    {
+      "plan_tag": "综合评价录取",
+      "batch_code": "本科提前批(A段)/单独批次",
+      "eligible": false,
+      "summary": "❌ 不具备综合评价录取报考资格",
+      "statistics": {
+        "total_rules": 12,
+        "passed_rules": 10,
+        "failed_rules": 2,
+        "pass_rate": "83.3%"
+      },
+      "rule_evaluations": [
+        {
+          "rule_name": "户籍性质检查",
+          "rule_clause": "综合评价录取户籍要求：不区分农村/城市户籍",
+          "required_value": "农村或城市户籍均可",
+          "actual_value": "农村户籍",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "地区范围检查",
+          "rule_clause": "综合评价录取实施区域要求：无特定区域限制",
+          "required_value": "无特定区域限制",
+          "actual_value": "未要求",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "三年统一检查",
+          "rule_clause": "综合评价录取三年统一要求：无三年统一要求",
+          "required_value": "无要求",
+          "actual_value": "考生户籍3年，学籍3年，监护人户籍3年",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "监护人户籍检查",
+          "rule_clause": "综合评价录取监护人户籍要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "监护人户籍：会宁县，是否有本地户籍：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "实际就读检查",
+          "rule_clause": "综合评价录取实际就读要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "实际就读：是",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族成分检查",
+          "rule_clause": "综合评价录取民族要求：不限制民族成分",
+          "required_value": "不限制民族成分",
+          "actual_value": "考生民族：汉族",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "专项审核检查",
+          "rule_clause": "综合评价录取专项审核要求：须通过高校/省级审核",
+          "required_value": "通过审核",
+          "actual_value": "审核状态：未通过/未申请",
+          "passed": false,
+          "failure_reason": "未通过专项审核或未参加审核"
+        },
+        {
+          "rule_name": "专项身份检查",
+          "rule_clause": "综合评价录取专项身份要求：须通过综合评价初审",
+          "required_value": "综合评价候选人",
+          "actual_value": "考生身份：普通考生",
+          "passed": false,
+          "failure_reason": "不具备综合评价候选人身份"
+        },
+        {
+          "rule_name": "建档立卡检查",
+          "rule_clause": "综合评价录取建档立卡要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "建档立卡状态：否",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "民族语文检查",
+          "rule_clause": "综合评价录取民族语文要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "民族语文成绩：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "诚信记录检查",
+          "rule_clause": "综合评价录取诚信要求：无要求",
+          "required_value": "无要求",
+          "actual_value": "失信记录：无",
+          "passed": true,
+          "failure_reason": null
+        },
+        {
+          "rule_name": "选科适配检查",
+          "rule_clause": "综合评价录取选科要求：无硬性选科限制",
+          "required_value": "无硬性选科限制",
+          "actual_value": "考生选科：物理 + 化学, 生物",
+          "passed": true,
+          "failure_reason": null
+        }
+      ],
+      "suggestions": [
+        "您当前不具备综合评价录取报考资格，建议关注以下方面：",
+        "• 未通过专项审核：请关注次年4月的报名审核通知。"
+      ],
+      "detailed_explanation": "【综合评价录取】资格审核详情\n录取批次：本科提前批(A段)/单独批次\n\n❌ 审核结果：不具备报考资格\n您不满足以下报考条件，无法填报该专项计划：\n\n  • 专项审核检查：未通过专项审核或未参加审核\n  • 专项身份检查：不具备综合评价候选人身份\n\n详细判定链路：\n  ✅ 户籍性质检查\n     规则：综合评价录取户籍要求：不区分农村/城市户籍\n     要求：农村或城市户籍均可\n     实际：农村户籍\n\n  ✅ 地区范围检查\n     规则：综合评价录取实施区域要求：无特定区域限制\n     要求：无特定区域限制\n     实际：未要求\n\n  ✅ 三年统一检查\n     规则：综合评价录取三年统一要求：无三年统一要求\n     要求：无要求\n     实际：考生户籍3年，学籍3年，监护人户籍3年\n\n  ✅ 监护人户籍检查\n     规则：综合评价录取监护人户籍要求：无要求\n     要求：无要求\n     实际：监护人户籍：会宁县，是否有本地户籍：是\n\n  ✅ 实际就读检查\n     规则：综合评价录取实际就读要求：无要求\n     要求：无要求\n     实际：实际就读：是\n\n  ✅ 民族成分检查\n     规则：综合评价录取民族要求：不限制民族成分\n     要求：不限制民族成分\n     实际：考生民族：汉族\n\n  ❌ 专项审核检查\n     规则：综合评价录取专项审核要求：须通过高校/省级审核\n     要求：通过审核\n     实际：审核状态：未通过/未申请\n     原因：未通过专项审核或未参加审核\n\n  ❌ 专项身份检查\n     规则：综合评价录取专项身份要求：须通过综合评价初审\n     要求：综合评价候选人\n     实际：考生身份：普通考生\n     原因：不具备综合评价候选人身份\n\n  ✅ 建档立卡检查\n     规则：综合评价录取建档立卡要求：无要求\n     要求：无要求\n     实际：建档立卡状态：否\n\n  ✅ 民族语文检查\n     规则：综合评价录取民族语文要求：无要求\n     要求：无要求\n     实际：民族语文成绩：无\n\n  ✅ 诚信记录检查\n     规则：综合评价录取诚信要求：无要求\n     要求：无要求\n     实际：失信记录：无\n\n  ✅ 选科适配检查\n     规则：综合评价录取选科要求：无硬性选科限制\n     要求：无硬性选科限制\n     实际：考生选科：物理 + 化学, 生物\n"
+    }
+  ],
+  "recommendations": [
+    "您具备 10 个专项计划的报考资格，建议优先考虑以下计划：",
+    "  • 国家专项（本科批(C段)）",
+    "  • 地方专项（本科批(C段)）",
+    "  • 革命老区专项（本科批(C段)）",
+    "\n以下计划您接近满足条件，可关注相关政策变化：",
+    "  • 高校专项：未通过专项审核或未参加审核",
+    "  • 建档立卡专项(本科)：非建档立卡贫困户"
+  ]
+}

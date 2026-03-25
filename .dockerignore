@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+tools/
+docs/
+*.md
+!README.md
+data/processed/backtest_*.csv
+.venv/
+.env
+*.log
+.idea/
+.vscode/

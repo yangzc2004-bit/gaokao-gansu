@@ -1,0 +1,556 @@
+{
+  "version": "2026-03-17-full",
+  "province": "甘肃",
+  "plans": [
+    {
+      "plan_tag": "国家专项",
+      "batch_code": "本科批(C段)",
+      "source_section": "1",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": "gansu_58_poverty_counties",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region", "parent_region"],
+        "guardian_region_required": true,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": true,
+        "score_logic": "line_offset:-40",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "依招生专业确定"
+        }
+      }
+    },
+    {
+      "plan_tag": "地方专项",
+      "batch_code": "本科批(C段)",
+      "source_section": "2",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_rural_all",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "passing_line:二本线",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "依招生专业确定"
+        }
+      }
+    },
+    {
+      "plan_tag": "高校专项",
+      "batch_code": "本科批(B段)",
+      "source_section": "3",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_58_plus_3",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region", "parent_region"],
+        "guardian_region_required": true,
+        "actual_schooling_required": true,
+        "special_review_pass_required": true,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "by_university_brochure",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "理工优先物理+化学"
+        }
+      }
+    },
+    {
+      "plan_tag": "建档立卡专项(本科)",
+      "batch_code": "本科批(C段)",
+      "source_section": "4.2",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "none",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": true,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "as_batch_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "建档立卡专项(专科)",
+      "batch_code": "高职(专科)批(F段)",
+      "source_section": "4.3",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "none",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": true,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "as_batch_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "革命老区专项",
+      "batch_code": "本科批(C段)",
+      "source_section": "5",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": "gansu_revolutionary_areas",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "passing_line:二本线",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "两州一县专项",
+      "batch_code": "本科批(C段)",
+      "source_section": "6",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": "gansu_two_states_one_county",
+        "nation_lock": "conditional_default_minority",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "by_batch_and_major_group",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "藏区专项-民语类",
+      "batch_code": "本科批(C段)",
+      "source_section": "7.1.1",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": "gansu_tibetan_area",
+        "nation_lock": "minority_only",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": true,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "as_batch_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "藏区专项-其他类",
+      "batch_code": "本科批(C段)",
+      "source_section": "7.1.2",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": "gansu_tibetan_area",
+        "nation_lock": "conditional_default_minority",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "as_batch_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "其他民族地区专项",
+      "batch_code": "本科批(C段)",
+      "source_section": "7.2",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": "gansu_other_ethnic_areas",
+        "nation_lock": "conditional_default_minority",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "as_batch_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "省属免费医学生(本科)",
+      "batch_code": "本科提前批(A段)",
+      "source_section": "8",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_rural_all",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "parent_region"],
+        "guardian_region_required": true,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "passing_line:二本线",
+        "subject_logic": {
+          "required_subjects": "PHYSICS & CHEMISTRY",
+          "preferred_subjects": "PHYSICS & CHEMISTRY & BIOLOGY"
+        }
+      }
+    },
+    {
+      "plan_tag": "省属免费医学生(专科)",
+      "batch_code": "高职(专科)批特殊类(P段)",
+      "source_section": "8",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_rural_all",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "parent_region"],
+        "guardian_region_required": true,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "passing_line:二本线",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "CHEMISTRY & BIOLOGY"
+        }
+      }
+    },
+    {
+      "plan_tag": "国家免费医学生",
+      "batch_code": "本科提前批(A段)",
+      "source_section": "9",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_58_plus_3",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "parent_region"],
+        "guardian_region_required": true,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "refer_provincial_free_medical",
+        "subject_logic": {
+          "required_subjects": "PHYSICS & CHEMISTRY",
+          "preferred_subjects": "PHYSICS & CHEMISTRY & BIOLOGY"
+        }
+      }
+    },
+    {
+      "plan_tag": "国家公费师范生",
+      "batch_code": "本科提前批(A段)",
+      "source_section": "10.1",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "none",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "above_first_line",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "依专业确定"
+        }
+      }
+    },
+    {
+      "plan_tag": "省属公费师范生",
+      "batch_code": "本科提前批(A段)",
+      "source_section": "10.2",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_local_target_area",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "parent_region"],
+        "guardian_region_required": true,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "passing_line:二本线",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "依专业确定"
+        }
+      }
+    },
+    {
+      "plan_tag": "市级定向培养",
+      "batch_code": "本科提前批(A段)/高职(专科)批特殊类(P段)",
+      "source_section": "11",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_city_target_area",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "by_city_program",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "少数民族预科班",
+      "batch_code": "本科批(C段)",
+      "source_section": "12",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "minority_only",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "line_offset:-80_from_second_line",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "依后续本科专业确定"
+        }
+      }
+    },
+    {
+      "plan_tag": "民族班",
+      "batch_code": "本科批(C段)",
+      "source_section": "13",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "minority_only",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "line_offset:-40_from_second_line",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "边防军人子女预科",
+      "batch_code": "本科批(C段)",
+      "source_section": "14",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "none",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": true,
+        "special_identity_required": "border_military_child",
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "line_offset:-80_from_second_line",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    },
+    {
+      "plan_tag": "强基计划",
+      "batch_code": "提前批A段之前单独投档",
+      "source_section": "15",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "none",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": true,
+        "special_identity_required": "strong_foundation_candidate",
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "composite_assessment",
+        "subject_logic": {
+          "required_subjects": "PHYSICS & CHEMISTRY | HISTORY",
+          "preferred_subjects": "PHYSICS & CHEMISTRY & BIOLOGY"
+        }
+      }
+    },
+    {
+      "plan_tag": "综合评价录取",
+      "batch_code": "本科提前批(A段)/单独批次",
+      "source_section": "16",
+      "rules": {
+        "hukou_nature": "any",
+        "region_scope": null,
+        "nation_lock": "none",
+        "three_unification_required": false,
+        "residence_years": 0,
+        "region_compare_fields": [],
+        "guardian_region_required": false,
+        "actual_schooling_required": false,
+        "special_review_pass_required": true,
+        "special_identity_required": "comprehensive_evaluation_candidate",
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "college_composite_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": "理工优先物理+化学"
+        }
+      }
+    },
+    {
+      "plan_tag": "农村学生专项",
+      "batch_code": "按院校方案",
+      "source_section": "17",
+      "rules": {
+        "hukou_nature": "rural_only",
+        "region_scope": "gansu_rural_all",
+        "nation_lock": "none",
+        "three_unification_required": true,
+        "residence_years": 3,
+        "region_compare_fields": ["region", "school_region"],
+        "guardian_region_required": false,
+        "actual_schooling_required": true,
+        "special_review_pass_required": false,
+        "special_identity_required": null,
+        "registered_poverty_family_required": false,
+        "ethnic_language_score_required": false,
+        "previous_special_plan_breach_forbidden": false,
+        "score_logic": "by_college_rule",
+        "subject_logic": {
+          "required_subjects": null,
+          "preferred_subjects": null
+        }
+      }
+    }
+  ]
+}

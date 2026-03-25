@@ -1,0 +1,90 @@
+{
+  "sample_count": 155834,
+  "record_count": 22262,
+  "by_history_years": [
+    {
+      "history_years": 1,
+      "sample_count": 31850,
+      "admit_rate": 0.5714285714285714,
+      "avg_probability": 0.34886162482782335,
+      "recommend_rate": 0.09805337519623233
+    },
+    {
+      "history_years": 2,
+      "sample_count": 123984,
+      "admit_rate": 0.5714285714285714,
+      "avg_probability": 0.4198058766573767,
+      "recommend_rate": 0.3754113433991483
+    }
+  ],
+  "by_bucket": [
+    {
+      "bucket": "保",
+      "sample_count": 42406,
+      "admit_rate": 0.8390793755600623,
+      "avg_probability": 0.663527248947788,
+      "recommend_rate": 0.35410083478753007
+    },
+    {
+      "bucket": "冲",
+      "sample_count": 52080,
+      "admit_rate": 0.34082181259600614,
+      "avg_probability": 0.23180464607839127,
+      "recommend_rate": 0.45658602150537636
+    },
+    {
+      "bucket": "稳",
+      "sample_count": 31504,
+      "admit_rate": 0.6696292534281361,
+      "avg_probability": 0.47541667053351844,
+      "recommend_rate": 0.3451307770441849
+    }
+  ],
+  "recommended_by_bucket": [
+    {
+      "bucket": "保",
+      "sample_count": 15016,
+      "admit_rate": 0.9045684603090037,
+      "avg_probability": 0.7678469570097906
+    },
+    {
+      "bucket": "冲",
+      "sample_count": 23779,
+      "admit_rate": 0.4430379746835443,
+      "avg_probability": 0.32438001871052635
+    },
+    {
+      "bucket": "稳",
+      "sample_count": 10873,
+      "admit_rate": 0.7430332015083234,
+      "avg_probability": 0.5497293870151442
+    }
+  ],
+  "by_probability_bin": [
+    {
+      "probability_bin": "(-0.001, 0.2]",
+      "sample_count": 40135,
+      "admit_rate": 0.2748473900585524
+    },
+    {
+      "probability_bin": "(0.2, 0.4]",
+      "sample_count": 34868,
+      "admit_rate": 0.43303315360789263
+    },
+    {
+      "probability_bin": "(0.4, 0.6]",
+      "sample_count": 39771,
+      "admit_rate": 0.6903271227779035
+    },
+    {
+      "probability_bin": "(0.6, 0.8]",
+      "sample_count": 33512,
+      "admit_rate": 0.8539329195512055
+    },
+    {
+      "probability_bin": "(0.8, 1.0]",
+      "sample_count": 7548,
+      "admit_rate": 0.9069952305246423
+    }
+  ]
+}

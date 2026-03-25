@@ -1,0 +1,362 @@
+{
+  "rename_map": {
+    "专业组代码": "group_sub_code",
+    "门类": "discipline",
+    "专业类": "major_category",
+    "专业组录取人数1": "group_admit_count_1",
+    "专业组最低分1": "group_min_score_1",
+    "专业组最低位次1": "group_min_rank_1",
+    "录取人数1": "admit_count_1",
+    "最低分1": "min_score_1",
+    "最低位次1": "min_rank_1",
+    "平均分1": "avg_score_1",
+    "平均位次1": "avg_rank_1",
+    "最高分1": "max_score_1",
+    "最高位次1": "max_rank_1",
+    "老批次1": "old_batch_1",
+    "录取人数2": "admit_count_2",
+    "最低分2": "min_score_2",
+    "最低位次2": "min_rank_2",
+    "平均分2": "avg_score_2",
+    "平均位次2": "avg_rank_2",
+    "最高分2": "max_score_2",
+    "最高位次2": "max_rank_2",
+    "老批次2": "old_batch_2",
+    "录取人数3": "admit_count_3",
+    "最低分3": "min_score_3",
+    "最低位次3": "min_rank_3",
+    "平均分3": "avg_score_3",
+    "平均位次3": "avg_rank_3",
+    "最高分3": "max_score_3",
+    "最高位次3": "max_rank_3",
+    "老批次3": "old_batch_3",
+    "更名合并转设": "rename_merge_info",
+    "转专业情况": "major_transfer_info",
+    "城市水平标签": "city_level_tag",
+    "保研率": "postgrad_rate",
+    "全校硕士专业数": "master_major_count",
+    "全校硕士专业": "master_majors",
+    "全校博士专业数": "doctor_major_count",
+    "全校博士专业": "doctor_majors",
+    "2025招生章程": "admission_charter_2025",
+    "软科评级": "ruanke_rating",
+    "软科排名": "ruanke_ranking",
+    "学科评估": "discipline_eval",
+    "本专业硕士点": "major_master_program",
+    "本专业博士点": "major_doctor_program"
+  },
+  "all_columns": {
+    "ID": {
+      "english": "ID",
+      "chinese": "ID"
+    },
+    "year": {
+      "english": "year",
+      "chinese": "year"
+    },
+    "province": {
+      "english": "province",
+      "chinese": "province"
+    },
+    "batch": {
+      "english": "batch",
+      "chinese": "batch"
+    },
+    "track": {
+      "english": "track",
+      "chinese": "track"
+    },
+    "school_code": {
+      "english": "school_code",
+      "chinese": "school_code"
+    },
+    "school_name": {
+      "english": "school_name",
+      "chinese": "school_name"
+    },
+    "admission_type": {
+      "english": "admission_type",
+      "chinese": "admission_type"
+    },
+    "group_code": {
+      "english": "group_code",
+      "chinese": "group_code"
+    },
+    "group_sub_code": {
+      "english": "group_sub_code",
+      "chinese": "专业组代码"
+    },
+    "group_name": {
+      "english": "group_name",
+      "chinese": "group_name"
+    },
+    "major_code": {
+      "english": "major_code",
+      "chinese": "major_code"
+    },
+    "major_full_name": {
+      "english": "major_full_name",
+      "chinese": "major_full_name"
+    },
+    "major_name": {
+      "english": "major_name",
+      "chinese": "major_name"
+    },
+    "major_note": {
+      "english": "major_note",
+      "chinese": "major_note"
+    },
+    "major_level": {
+      "english": "major_level",
+      "chinese": "major_level"
+    },
+    "subject_requirement_raw": {
+      "english": "subject_requirement_raw",
+      "chinese": "subject_requirement_raw"
+    },
+    "plan_count": {
+      "english": "plan_count",
+      "chinese": "plan_count"
+    },
+    "duration_years": {
+      "english": "duration_years",
+      "chinese": "duration_years"
+    },
+    "tuition": {
+      "english": "tuition",
+      "chinese": "tuition"
+    },
+    "group_majors": {
+      "english": "group_majors",
+      "chinese": "group_majors"
+    },
+    "group_plan_count": {
+      "english": "group_plan_count",
+      "chinese": "group_plan_count"
+    },
+    "discipline": {
+      "english": "discipline",
+      "chinese": "门类"
+    },
+    "major_category": {
+      "english": "major_category",
+      "chinese": "专业类"
+    },
+    "predicted_rank_2025": {
+      "english": "predicted_rank_2025",
+      "chinese": "predicted_rank_2025"
+    },
+    "is_new_major": {
+      "english": "is_new_major",
+      "chinese": "is_new_major"
+    },
+    "group_admit_count_1": {
+      "english": "group_admit_count_1",
+      "chinese": "专业组录取人数1"
+    },
+    "group_min_score_1": {
+      "english": "group_min_score_1",
+      "chinese": "专业组最低分1"
+    },
+    "group_min_rank_1": {
+      "english": "group_min_rank_1",
+      "chinese": "专业组最低位次1"
+    },
+    "admit_count_1": {
+      "english": "admit_count_1",
+      "chinese": "录取人数1"
+    },
+    "min_score_1": {
+      "english": "min_score_1",
+      "chinese": "最低分1"
+    },
+    "min_rank_1": {
+      "english": "min_rank_1",
+      "chinese": "最低位次1"
+    },
+    "avg_score_1": {
+      "english": "avg_score_1",
+      "chinese": "平均分1"
+    },
+    "avg_rank_1": {
+      "english": "avg_rank_1",
+      "chinese": "平均位次1"
+    },
+    "max_score_1": {
+      "english": "max_score_1",
+      "chinese": "最高分1"
+    },
+    "max_rank_1": {
+      "english": "max_rank_1",
+      "chinese": "最高位次1"
+    },
+    "old_batch_1": {
+      "english": "old_batch_1",
+      "chinese": "老批次1"
+    },
+    "admit_count_2": {
+      "english": "admit_count_2",
+      "chinese": "录取人数2"
+    },
+    "min_score_2": {
+      "english": "min_score_2",
+      "chinese": "最低分2"
+    },
+    "min_rank_2": {
+      "english": "min_rank_2",
+      "chinese": "最低位次2"
+    },
+    "avg_score_2": {
+      "english": "avg_score_2",
+      "chinese": "平均分2"
+    },
+    "avg_rank_2": {
+      "english": "avg_rank_2",
+      "chinese": "平均位次2"
+    },
+    "max_score_2": {
+      "english": "max_score_2",
+      "chinese": "最高分2"
+    },
+    "max_rank_2": {
+      "english": "max_rank_2",
+      "chinese": "最高位次2"
+    },
+    "old_batch_2": {
+      "english": "old_batch_2",
+      "chinese": "老批次2"
+    },
+    "admit_count_3": {
+      "english": "admit_count_3",
+      "chinese": "录取人数3"
+    },
+    "min_score_3": {
+      "english": "min_score_3",
+      "chinese": "最低分3"
+    },
+    "min_rank_3": {
+      "english": "min_rank_3",
+      "chinese": "最低位次3"
+    },
+    "avg_score_3": {
+      "english": "avg_score_3",
+      "chinese": "平均分3"
+    },
+    "avg_rank_3": {
+      "english": "avg_rank_3",
+      "chinese": "平均位次3"
+    },
+    "max_score_3": {
+      "english": "max_score_3",
+      "chinese": "最高分3"
+    },
+    "max_rank_3": {
+      "english": "max_rank_3",
+      "chinese": "最高位次3"
+    },
+    "old_batch_3": {
+      "english": "old_batch_3",
+      "chinese": "老批次3"
+    },
+    "school_province": {
+      "english": "school_province",
+      "chinese": "school_province"
+    },
+    "school_city": {
+      "english": "school_city",
+      "chinese": "school_city"
+    },
+    "school_tags": {
+      "english": "school_tags",
+      "chinese": "school_tags"
+    },
+    "school_level": {
+      "english": "school_level",
+      "chinese": "school_level"
+    },
+    "rename_merge_info": {
+      "english": "rename_merge_info",
+      "chinese": "更名合并转设"
+    },
+    "major_transfer_info": {
+      "english": "major_transfer_info",
+      "chinese": "转专业情况"
+    },
+    "city_level_tag": {
+      "english": "city_level_tag",
+      "chinese": "城市水平标签"
+    },
+    "edu_level": {
+      "english": "edu_level",
+      "chinese": "edu_level"
+    },
+    "affiliation": {
+      "english": "affiliation",
+      "chinese": "affiliation"
+    },
+    "school_type": {
+      "english": "school_type",
+      "chinese": "school_type"
+    },
+    "public_private": {
+      "english": "public_private",
+      "chinese": "public_private"
+    },
+    "postgrad_rate": {
+      "english": "postgrad_rate",
+      "chinese": "保研率"
+    },
+    "school_rank": {
+      "english": "school_rank",
+      "chinese": "school_rank"
+    },
+    "master_major_count": {
+      "english": "master_major_count",
+      "chinese": "全校硕士专业数"
+    },
+    "master_majors": {
+      "english": "master_majors",
+      "chinese": "全校硕士专业"
+    },
+    "doctor_major_count": {
+      "english": "doctor_major_count",
+      "chinese": "全校博士专业数"
+    },
+    "doctor_majors": {
+      "english": "doctor_majors",
+      "chinese": "全校博士专业"
+    },
+    "admission_charter_2025": {
+      "english": "admission_charter_2025",
+      "chinese": "2025招生章程"
+    },
+    "ruanke_rating": {
+      "english": "ruanke_rating",
+      "chinese": "软科评级"
+    },
+    "ruanke_ranking": {
+      "english": "ruanke_ranking",
+      "chinese": "软科排名"
+    },
+    "discipline_eval": {
+      "english": "discipline_eval",
+      "chinese": "学科评估"
+    },
+    "major_strength": {
+      "english": "major_strength",
+      "chinese": "major_strength"
+    },
+    "major_master_program": {
+      "english": "major_master_program",
+      "chinese": "本专业硕士点"
+    },
+    "major_doctor_program": {
+      "english": "major_doctor_program",
+      "chinese": "本专业博士点"
+    },
+    "record_id": {
+      "english": "record_id",
+      "chinese": "record_id"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "name": "历史-5000",
+    "goal": "冲刺型考生",
+    "query": {
+      "track": "历史",
+      "selected_subjects": [
+        "政治",
+        "地理"
+      ],
+      "score": 560,
+      "rank": 5000,
+      "region": "会宁县"
+    },
+    "counts": {
+      "冲": 20,
+      "稳": 20,
+      "保": 20,
+      "政策红利": 20
+    },
+    "top_recommendations": {
+      "冲": {
+        "school_name": "常州大学",
+        "major_name": "国际经济与贸易",
+        "risk_level": "冲",
+        "admission_probability": 0.39065507645380787,
+        "rank_cv": 0.026917951711698973,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次略高于目标位次，存在冲刺空间；专业计划名额偏少，系统已从严评估；专项政策匹配带来一定加权"
+      },
+      "稳": {
+        "school_name": "湖南工业大学",
+        "major_name": "英语",
+        "risk_level": "稳",
+        "admission_probability": 0.6366147094377481,
+        "rank_cv": 0.02171786296528215,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次与目标位次接近，匹配度较稳；专项政策匹配带来一定加权"
+      },
+      "保": {
+        "school_name": "天津外国语大学",
+        "major_name": "经济学",
+        "risk_level": "保",
+        "admission_probability": 0.9798341872393923,
+        "rank_cv": 0.01867633128941629,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次优于目标位次，安全边际较大；专业计划占比较高，录取稳定性略好；专项政策匹配带来一定加权"
+      },
+      "政策红利": {
+        "school_name": "西南财经大学",
+        "major_name": "外国语言文学类",
+        "risk_level": "冲",
+        "admission_probability": 0.12626650127531608,
+        "rank_cv": 0.0,
+        "years_available": 1,
+        "history_penalty": 8,
+        "recommend_reason": "仅有1年历史数据，已明显保守处理；当前位次略高于目标位次，存在冲刺空间；专业计划占比较高，录取稳定性略好；专项政策匹配带来一定加权"
+      }
+    }
+  },
+  {
+    "name": "物理-15000",
+    "goal": "中间稳妥型考生",
+    "query": {
+      "track": "物理",
+      "selected_subjects": [
+        "化学",
+        "生物"
+      ],
+      "score": 500,
+      "rank": 15000,
+      "region": "兰州市"
+    },
+    "counts": {
+      "冲": 20,
+      "稳": 20,
+      "保": 20,
+      "政策红利": 20
+    },
+    "top_recommendations": {
+      "冲": {
+        "school_name": "西安科技大学",
+        "major_name": "工程管理",
+        "risk_level": "冲",
+        "admission_probability": 0.3368202951203597,
+        "rank_cv": 0.00236650996371962,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次略高于目标位次，存在冲刺空间；专项政策匹配带来一定加权"
+      },
+      "稳": {
+        "school_name": "西安财经大学",
+        "major_name": "金融学",
+        "risk_level": "稳",
+        "admission_probability": 0.6116208726995798,
+        "rank_cv": 0.021030873173211458,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次与目标位次接近，匹配度较稳；专项政策匹配带来一定加权"
+      },
+      "保": {
+        "school_name": "南通大学",
+        "major_name": "教育技术学",
+        "risk_level": "保",
+        "admission_probability": 0.9907344500708478,
+        "rank_cv": 0.007998698293004713,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次优于目标位次，安全边际较大；专项政策匹配带来一定加权"
+      },
+      "政策红利": {
+        "school_name": "苏州大学",
+        "major_name": "物流管理",
+        "risk_level": "冲",
+        "admission_probability": 0.1351070213458456,
+        "rank_cv": 0.0,
+        "years_available": 1,
+        "history_penalty": 8,
+        "recommend_reason": "仅有1年历史数据，已明显保守处理；当前位次略高于目标位次，存在冲刺空间；专业计划占比较高，录取稳定性略好；专项政策匹配带来一定加权"
+      }
+    }
+  },
+  {
+    "name": "历史-12000",
+    "goal": "保底敏感型考生",
+    "query": {
+      "track": "历史",
+      "selected_subjects": [
+        "政治",
+        "地理"
+      ],
+      "score": 500,
+      "rank": 12000,
+      "region": "天水市"
+    },
+    "counts": {
+      "冲": 20,
+      "稳": 20,
+      "保": 20,
+      "政策红利": 20
+    },
+    "top_recommendations": {
+      "冲": {
+        "school_name": "保定学院",
+        "major_name": "历史学",
+        "risk_level": "冲",
+        "admission_probability": 0.4031286283463957,
+        "rank_cv": 0.028733237494487196,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次略高于目标位次，存在冲刺空间；专项政策匹配带来一定加权"
+      },
+      "稳": {
+        "school_name": "琼台师范学院",
+        "major_name": "学前教育",
+        "risk_level": "稳",
+        "admission_probability": 0.7403948915090907,
+        "rank_cv": 0.008256781212343918,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次与目标位次接近，匹配度较稳；专项政策匹配带来一定加权"
+      },
+      "保": {
+        "school_name": "兰州工业学院",
+        "major_name": "经济与金融",
+        "risk_level": "保",
+        "admission_probability": 0.9852391287013682,
+        "rank_cv": 0.02085623768662571,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次优于目标位次，安全边际较大；专业计划占比较高，录取稳定性略好；专项政策匹配带来一定加权"
+      },
+      "政策红利": {
+        "school_name": "长沙师范学院",
+        "major_name": "学前教育",
+        "risk_level": "冲",
+        "admission_probability": 0.10738727255330643,
+        "rank_cv": 0.0044975848711043325,
+        "years_available": 3,
+        "history_penalty": 0,
+        "recommend_reason": "近3年历史数据较完整；当前位次略高于目标位次，存在冲刺空间；专业计划占比较高，录取稳定性略好；专项政策匹配带来一定加权"
+      }
+    }
+  }
+]
