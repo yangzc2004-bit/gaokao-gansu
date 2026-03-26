@@ -6,7 +6,20 @@ from pathlib import Path
 from typing import Iterable
 
 
-POLICY_RULES_PATH = Path("configs/policy_rules.gansu.json")
+# Auto-detect project root for Streamlit Cloud compatibility
+def _get_project_root() -> Path:
+    """Find project root by looking for configs directory."""
+    current = Path.cwd()
+    # Try current dir and parents
+    for path in [current] + list(current.parents):
+        if (path / "configs" / "policy_rules.gansu.json").exists():
+            return path
+    # Fallback: use current working dir
+    return current
+
+
+PROJECT_ROOT = _get_project_root()
+POLICY_RULES_PATH = PROJECT_ROOT / "configs" / "policy_rules.gansu.json"
 
 # Selectable groups shown in the frontend. Hidden tags still participate in
 # rule evaluation and text matching through `ALL_PLAN_GROUPS`.
