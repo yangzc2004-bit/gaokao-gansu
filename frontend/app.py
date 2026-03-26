@@ -2335,7 +2335,7 @@ for tab, bucket in zip(tabs, DISPLAY_BUCKETS):
             st.markdown(
                 render_empty_panel(
                     "等待生成推荐",
-                    "填写左侧信息并点击"生成推荐"。演示版要求必须填写位次，并选择两门再选科目。",
+                    '填写左侧信息并点击"生成推荐"。演示版要求必须填写位次，并选择两门再选科目。',
                     tips=["演示推荐组合：历史 + 政治/地理", "或物理 + 化学/生物", "建议填写甘肃县区信息以触发政策规则"],
                 ),
                 unsafe_allow_html=True,
