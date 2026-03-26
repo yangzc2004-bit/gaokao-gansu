@@ -383,7 +383,7 @@ def render_hero(profile_snapshot: dict[str, str | int | list[str]], has_result: 
     text = (
         "本页重点展示位次预测、风险分层与政策规则结构化挖掘的联动效果，为甘肃考生提供志愿填报参考。"
         if has_result
-        else "先在左侧填写考生信息并点击"生成推荐"，右侧将展示冲 / 稳 / 保 / 政策红利结果，并给出推荐依据。"
+        else '先在左侧填写考生信息并点击"生成推荐"，右侧将展示冲 / 稳 / 保 / 政策红利结果，并给出推荐依据。'
     )
     badge = "Policy Mining + Rank-Based Recommendation"
     query_text = (
