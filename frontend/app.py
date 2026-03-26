@@ -2131,7 +2131,7 @@ with st.sidebar:
         }
 
         st.subheader("计划类型选择")
-        st.caption("系统会识别当前考生可能可报的计划类型；只有与当前批次匹配且通过资格审查的计划才能勾选，右侧"政策红利"仅展示对应计划志愿。")
+        st.caption('系统会识别当前考生可能可报的计划类型；只有与当前批次匹配且通过资格审查的计划才能勾选，右侧"政策红利"仅展示对应计划志愿。')
         st.button("清空计划筛选", key="clear_plan_filters", on_click=clear_plan_selections, use_container_width=True)
 
         eligible_count = 0
