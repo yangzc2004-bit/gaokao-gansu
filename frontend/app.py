@@ -2311,7 +2311,7 @@ for message in blocking_errors:
 for message in warnings:
     st.warning(message)
 if result and results_need_refresh:
-    st.info("左侧基础信息或计划筛选已变更，当前展示的是上次生成结果；点击"生成推荐"后即可刷新。")
+    st.info('左侧基础信息或计划筛选已变更，当前展示的是上次生成结果；点击"生成推荐"后即可刷新。')
 
 if batch_counts:
     with st.sidebar:
